@@ -1,0 +1,4 @@
+services:
+  parser:
+    build: .
+    command: python main.py
